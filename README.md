@@ -1,4 +1,5 @@
 Financial Analysis of Gujarat Pipavav Port Ltd (GPPL) for FY22 & FY23
+
 This analysis dives into the financial health of Gujarat Pipavav Port Ltd (GPPL), a prominent private port operator in India, for fiscal years 2022 (FY22) and 2023 (FY23). We'll utilize data from annual reports and publicly available sources to examine various aspects:
 
 Capital Expenditure (Capex): We'll analyze the amount and purpose of GPPL's recent investments, including whether they're for expansion within their core business, diversification, replacements, R&D, or intangible assets. This will be connected to growth in assets, sales, exports, partnerships, and joint ventures.
